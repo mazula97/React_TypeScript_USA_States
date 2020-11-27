@@ -1,0 +1,21 @@
+* {
+  padding-top: 30px;
+}
+
+.app {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    font-size: 22px;
+}
+
+.dropdown-trigger {
+  width: 600px !important;
+}
+
+.dropdown-item {
+  width: 600px !important;
+}

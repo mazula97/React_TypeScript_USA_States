@@ -1,0 +1,24 @@
+@import url('http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext');
+
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.Symbols {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.ImageWrapper {
+    max-width: 45%;
+}
+
+.Flag {
+    border: 1px solid #CCC;
+}
+
+.Map {
+    margin: 40px 0;
+}
